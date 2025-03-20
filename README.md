@@ -33,7 +33,7 @@ The copied message will be pasted at the cursor position.
 
 ## Credits
 
-- **[Your Name]** – Creator & Developer  
+- **[ManancialGD]** – Creator & Developer  
 
 ---
 
