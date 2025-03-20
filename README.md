@@ -11,7 +11,7 @@ Press **Ctrl+C** to copy the full message and **Ctrl+V** to paste.
 
 2. **Install the Mod**  
    - Download the latest version of **Chat Copy-Paste Mod** from [Releases](https://github.com/ManancialGD/ClipBoardREPO/releases).  
-   - Place the `.dll` file into the `BepInEx/plugins` folder.
+   - Export the `.zip` file into the `BepInEx/plugins` folder.
 
 3. **Launch the Game**  
    - Start *R.E.P.O.* 
