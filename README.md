@@ -1,4 +1,4 @@
-# REPO Clipboard Mod
+# REPO ChatClipboard Mod
 
 A simple **BepInEx** mod for *R.E.P.O.* that allows you to **copy** and **paste** chat messages easily.  
 Press **Ctrl+C** to copy the full message and **Ctrl+V** to paste.
